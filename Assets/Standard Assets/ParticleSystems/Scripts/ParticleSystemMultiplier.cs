@@ -20,7 +20,7 @@ namespace UnityStandardAssets.Effects
 				main.startSizeMultiplier = multiplier;
 				main.startSpeedMultiplier = multiplier;
 				main.startLifetimeMultiplier = Mathf.Lerp(multiplier, 1, 0.5f);
-
+Debug.Log("hello");
                 system.Clear();
                 system.Play();
             }
