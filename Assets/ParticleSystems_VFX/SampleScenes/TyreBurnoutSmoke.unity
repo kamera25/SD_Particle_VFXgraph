@@ -216,20 +216,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: TyreBurnoutSmoke
       objectReference: {fileID: 0}
+    - target: {fileID: 3963810578054129574, guid: d75364404f12cec60a888282abf2eb0d,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3963810578054129574, guid: d75364404f12cec60a888282abf2eb0d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4899112746135640909, guid: d75364404f12cec60a888282abf2eb0d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.463808
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4899112746135640909, guid: d75364404f12cec60a888282abf2eb0d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 36.37084
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4899112746135640909, guid: d75364404f12cec60a888282abf2eb0d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 23.559284
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4899112746135640909, guid: d75364404f12cec60a888282abf2eb0d,
         type: 3}
@@ -277,16 +287,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8926484042661614526, guid: d8014886103a870979e2ede737051440,
         type: 3}
-    - target: {fileID: 3963810578054129574, guid: d75364404f12cec60a888282abf2eb0d,
-        type: 3}
-      propertyPath: m_Materials.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3963810578054129574, guid: d75364404f12cec60a888282abf2eb0d,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d75364404f12cec60a888282abf2eb0d, type: 3}
 --- !u!1 &1480385257
